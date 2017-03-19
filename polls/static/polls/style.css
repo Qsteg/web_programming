@@ -1,5 +1,14 @@
 li a {
-    color: green;
+    color: hotpink;
+}
+label[for="choice1"] {
+    color: aqua;
+}
+label[for="choice2"]{
+    color: #ffa322;
+}
+label[for="choice3"]{
+    color: #ff65f3;
 }
 body {
     background: white url("images/background.gif") no-repeat right bottom;
